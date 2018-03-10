@@ -1,0 +1,16 @@
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+*.iml
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+app/build/
+*.apk
+/app/src/main/res/values/strings.conf.xml
+/app/src/main/res/values/data.xml
+/app/src/main/assets/data.json

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- ToDo: Replace these icons with more appropriate ones -->
+    <item
+        android:id="@+id/activity_main_action_copy"
+        android:orderInCategory="100"
+        android:title="@string/add"
+        android:icon="@drawable/ic_skip_white"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/activity_main_action_question"
+        android:orderInCategory="200"
+        android:title="@string/questionnaire"
+        android:icon="@drawable/ic_arrow_forward_white"
+        app:showAsAction="always|withText"
+        android:visible="false" />
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DecisionAid</string>
+
+    <string name="placeholder_title">A Placeholder Title, This Is</string>
+    <string name="placeholder_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="button_placeholder_text">Button Placeholder Text</string>
+    <string name="placeholder_text_small">Some small text, this is. Yoda approves.</string>
+
+    <string name="add">Add</string>
+    <string name="questionnaire">Questionnaire</string>
+    <string name="home">Home</string>
+    <string name="questions">Questions</string>
+    <string name="about">About</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+
+    <string name="question_link">"The question URL comes here."</string>
+
+    <string name="main_activity_navigation_drawer_open">Open</string>
+    <string name="main_activity_navigation_drawer_close">Close</string>
+</resources>
